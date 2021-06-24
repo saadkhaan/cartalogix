@@ -10,7 +10,7 @@ export default function Header() {
               <img src="../logo.svg" alt="cartalogix logo" />
             </div>
             <nav>
-              <ul className="flex gap-x-12 hidden lg:block">
+              <ul className="sm:flex gap-x-12 hidden">
                 <li>
                   <Link href="/">Home</Link>
                 </li>
